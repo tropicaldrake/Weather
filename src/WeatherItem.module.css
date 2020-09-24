@@ -1,0 +1,57 @@
+.body{
+
+
+    border:solid 2px #fbfbfb;
+    padding:5px;
+    text-align:center;
+
+    color:rgb(153, 153, 153);
+    font-weight:600;
+    letter-spacing:1px;
+    font-size:0.9em;
+
+    user-select:none;
+    cursor:pointer;
+
+    transition:background-color 0.5s, border-color 0.5s;
+
+
+}
+
+.body:hover{
+
+    background-color:#fbfbfb;
+    border-color:whitesmoke;
+
+}
+
+.humid{
+
+    margin-top:10px;
+    font-size:0.8em;
+
+}
+
+.dark{
+
+    color:#313131;
+
+}
+
+.light{
+
+    font-weight:300;
+
+}
+
+.icon{
+
+    transform:color 0.5s;
+
+}
+
+.selected{
+
+    color:royalblue;
+
+}
